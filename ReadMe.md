@@ -1,3 +1,8 @@
+
+*   For more details about the nonlinear dynamics of Rikitake model of geomagnetic reversal, please refer to
+![Nonlinear_dynamics_of_geomagnetic_reversal.pdf](./Nonlinear_dynamics_of_geomagnetic_reversal.pdf)
+
+
 ![Nonlinear dynamics of Rikitake model of geomagnetic reversal](./img/anigif.gif?raw=true "Nonlinear dynamics of Rikitake model of geomagnetic reversal")
 
 ### Screenshots
